@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/xsxtw/Mail-Probe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r00tSe7en&theme=dracula&repo=Mail-Probe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xsxtw&theme=dracula&repo=Mail-Probe" />
 </a>
